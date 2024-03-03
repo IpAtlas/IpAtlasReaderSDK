@@ -18,7 +18,7 @@ repositories {
 }
 
 dependencies {
-    implementation("net.ipatlas:ipatlasreadersdk:0.0.1-SNAPSHOT")
+    implementation("net.ipatlas:ipatlasreadersdk:0.0.2-SNAPSHOT")
     testImplementation(platform("org.junit:junit-bom:5.9.1"))
     testImplementation("org.junit.jupiter:junit-jupiter")
 }
