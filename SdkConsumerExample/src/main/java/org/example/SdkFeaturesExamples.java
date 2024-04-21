@@ -7,7 +7,7 @@ import net.ipatlas.readersdk.reader.model.GeolocationData;
 import java.util.Optional;
 
 public class SdkFeaturesExamples {
-    private static final String DATABASE_PATH = "path/to/database/dynamic-plus-db-20240302.ipatlas";
+    private static final String DATABASE_PATH = "path/to/database/ip-location-database-20240418.ipatlas";
 
     public void getDatabaseMetadata() {
         DatabaseReader databaseReader = new DatabaseReaderBuilder()
